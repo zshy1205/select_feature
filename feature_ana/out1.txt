@@ -1,0 +1,48 @@
+00000001
+喜马拉雅搜到的节目都放不了了，待会再试试吧
+喜马拉雅*搜到*的*节目#都*放不了了#，待会*再*试试吧
+xi6ma3la1ya3sou1dao4de5jie2mu4dou1fang4bu4liao3le5dai1hui4zai4shi4shi5ba5
+喜马拉雅/n 搜/v 到/v 的/u 节目/n 都/d 放不了/u 了/u ，/w 待会/n 再/d 试试/v 吧/y
+
+00000002
+上海 今天  空气质量 良 PM2.5 24 PM10 64
+上海# *今天# # *空气*质量# *良# 二点五# *二十四# 十# *六十四
+shang4hai3jin1tian1kong1qi4zhi4liang4liang2er4dian6wu3er4shi2si4shi2liu4shi2si4
+上海/ns  /w 今天/t  /w  /w 空气/n 质量/n  /w 良/ag  /w 二点五/m  /w 二十四/m  /w 十/m  /w 六十四/m
+
+00000003
+上海 ，11号21点 小雨 平均温度为22度 ，11号19点 晴 平均温度为23度，11号20点 多云 平均温度
+上海# #，十一号二十一点# *小雨# *平均*温度*为*二十二度# #，十一号*十九点# *晴# *平均*温度*为*二十三度#，十一号*二十点# *多云# *平均*温度
+shang4hai3shi2yi1hao4er4shi2yi1dian3xiao6yu3ping2jun1wen1du4wei2er4shi2er4du4shi2yi1hao4shi2jiu6dian3qing2ping2jun1wen1du4wei2er4shi2san1du4shi2yi1hao4er4shi2dian3duo1yun2ping2jun1wen1du4
+上海/ns  /w ，/w 十一号/q 二十一点/qt  /w 小雨/n  /w 平均/a 温度/n 为/p 二十二/m 度/qv  /w ，/w 十一号/q 十九/m 点/qt  /w 晴/vi  /w 平均/a 温度/n 为/p 二十三/m 度/qv ，/w 十一号/q 二十/m 点/qt  /w 多/a 云/vg  /w 平均/a 温度/n
+
+00000004
+上海 ，14号09点到14号10点 阴 平均温度为26度
+上海# #，十四号*九点到*十四号*十点# *阴# *平均*温度*为*二十六度
+shang4hai3shi2si4hao4jiu6dian3dao4shi2si4hao4shi2dian3yin1ping2jun1wen1du4wei2er4shi2liu4du4
+上海/ns  /w ，/w 十四/m 号/q 九/m 点/qt 到/v 十四/m 号/q 十/m 点/qt  /w 阴/a  /w 平均/a 温度/n 为/p 二十六/m 度/qv
+
+00000005
+切换播放模式得先登录QQ音乐的
+切换*播放*模式得*先*登录*音乐的
+qie1huan4bo1fang4mo2shi4dei3xian1deng1lu4yin1yue4de5
+切换/v 播放/vn 模式/n 得/u 先/d 登录/v 音乐/n 的/u
+
+00000006
+空气质量优，PM2.5 15
+空气*质量优#，二点五# *十五
+kong1qi4zhi4liang4you1er4dian6wu3shi2wu3
+空气/n 质量/n 优/ag ，/w 二点五/m  /w 十五/m
+
+00000007
+OK啦，音量调低了
+啦#，音量*调低了
+la5yin1liang4tiao2di1le5
+啦/y ，/w 音量/n 调低/v 了/u
+
+00000008
+海 今天 多云，当前温度34度，最低温度25度，最高温度34度，空气质量 轻度污染 PM2.5 60
+海# *今天# *多云#，当前*温度*三十四度#，最低*温度*二十五度#，最高*温度*三十四度#，空气*质量# *轻度*污染# 二点五# *六十
+hai3jin1tian1duo1yun2dang1qian2wen1du4san1shi2si4du4zui4di1wen1du4er4shi2wu3du4zui4gao1wen1du4san1shi2si4du4kong1qi4zhi4liang4qing1du4wu1ran3er4dian6wu3liu4shi2
+海/n  /w 今天/t  /w 多/a 云/vg ，/w 当前/t 温度/n 三十四/m 度/qv ，/w 最低/a 温度/n 二十五/m 度/qv ，/w 最高/a 温度/n 三十四/m 度/qv ，/w 空气/n 质量/n  /w 轻度/b 污染/vn  /w 二点五/m  /w 六十/m
+

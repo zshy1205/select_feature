@@ -1,0 +1,7 @@
+00000001	喜马拉雅搜到的节目都放不了了，待会再试试吧	x_0|i_6|m_0|a_3|l_0|a_1|ia_3|s_0|ou_1|d_0|ao_4|d_0|e_5|j_0|ie_2|m_0|u_4|d_0|ou_1|f_0|ang_4|b_0|u_4|l_0|iao_3|l_0|e_5|d_0|ai_1|h_0|uei_4|z_0|ai_4|sh_0|iii_4|sh_0|iii_5|b_0|a_5	6	2	12
+00000002	上海 今天  空气质量 良 PM2.5 24 PM10 64	sh_0|ang_4|h_0|ai_3|j_0|in_1|t_0|ian_1|k_0|ong_1|q_0|i_4|zh_0|iii_4|l_0|iang_4|l_0|iang_2|er_4|d_0|ian_6|u_3|er_4|sh_0|iii_2|s_0|ii_4|sh_0|iii_2|l_0|iou_4|sh_0|iii_2|s_0|ii_4	8	5	10
+00000003	上海 ，11号21点 小雨 平均温度为22度 ，11号19点 晴 平均温度为23度，11号20点 多云 平均温度为26度	sh_0|ang_4|h_0|ai_3|sh_0|iii_2|i_1|h_0|ao_4|er_4|sh_0|iii_2|i_1|d_0|ian_3|x_0|iao_6|v_3|p_0|ing_2|j_0|vn_1|uen_1|d_0|u_4|uei_2|er_4|sh_0|iii_2|er_4|d_0|u_4|sh_0|iii_2|i_1|h_0|ao_4|sh_0|iii_2|j_0|iou_6|d_0|ian_3|q_0|ing_2|p_0|ing_2|j_0|vn_1|uen_1|d_0|u_4|uei_2|er_4|sh_0|iii_2|s_0|an_1|d_0|u_4|sh_0|iii_2|i_1|h_0|ao_4|er_4|sh_0|iii_2|d_0|ian_3|d_0|uo_1|vn_2|p_0|ing_2|j_0|vn_1|uen_1|d_0|u_4	6	14	28
+00000004	上海 ，14号09点到14号10点 阴 平均温度为26度	sh_0|ang_4|h_0|ai_3|sh_0|iii_2|s_0|ii_4|h_0|ao_4|j_0|iou_6|d_0|ian_3|d_0|ao_4|sh_0|iii_2|s_0|ii_4|h_0|ao_4|sh_0|iii_2|d_0|ian_3|in_1|p_0|ing_2|j_0|vn_1|uen_1|d_0|u_4|uei_2|er_4|sh_0|iii_2|l_0|iou_4|d_0|u_4	5	9	12
+00000005	切换播放模式得先登录QQ音乐的	q_0|ie_1|h_0|uan_4|b_0|o_1|f_0|ang_4|m_0|o_2|sh_0|iii_4|d_0|ei_3|x_0|ian_1|d_0|eng_1|l_0|u_4|in_1|ve_4|d_0|e_5	5	2	11
+00000006	空气质量优，PM2.5 15	k_0|ong_1|q_0|i_4|zh_0|iii_4|l_0|iang_4|iou_1|er_4|d_0|ian_6|u_3|sh_0|iii_2|u_3	5	4	19
+00000007	OK啦，音量调低了	l_0|a_5|in_1|l_0|iang_4|t_0|iao_2|d_0|i_1|l_0|e_5	5	2	23
